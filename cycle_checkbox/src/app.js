@@ -1,5 +1,4 @@
 import {div, input, p} from '@cycle/dom'
-import xs from 'xstream'
 
 export function App (sources) {
   const sinks = {
